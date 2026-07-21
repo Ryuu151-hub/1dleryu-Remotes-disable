@@ -1,0 +1,6 @@
+{
+  "title": "THE EXTENSION IS MODIFIED",
+  "message": "This extension failed integrity verification. Please install the official version.",
+  "buttonText": "Download Original",
+  "buttonUrl": "https://github.com/YOURNAME/YOUR_EXTENSION/releases/latest"
+}
