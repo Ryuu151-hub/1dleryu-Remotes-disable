@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "blocked": false,
+  "minimumVersion": "4.0.0",
+  "latestVersion": "4.0.0",
+  "signature": "YOUR_SIGNATURE",
+  "files": {
+    "background.js": "SHA256...",
+    "popup.js": "SHA256...",
+    "manifest.json": "SHA256..."
+  }
+}
